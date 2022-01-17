@@ -15,6 +15,9 @@ Software Used
 1. XAMPP 
 2. PhpMyAdmin
 
+Link to Video
+[LINK](https://drive.google.com/file/d/1iRGgyedmPCNpa_bxxBBsmOa6iQlRtP5z/view?usp=sharing)
+
 
 List of Contents
 1. Guest House Management Folder
